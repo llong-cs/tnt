@@ -126,3 +126,9 @@ Evaluation data uses the same format as training data, with an added `db_id` fie
     },
 ]
 ```
+
+---
+
+## **🙌 Explore Our Sister Model**
+
+Also welcome to check out our sister model [**TableGPT2**](https://huggingface.co/tablegpt/TableGPT2-7B), a powerful 7B-parameter table language model optimized for structured data understanding. Try it out on Hugging Face!
