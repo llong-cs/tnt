@@ -1,0 +1,1 @@
+from model.encoder import TableEncoder

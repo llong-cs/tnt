@@ -1,0 +1,26 @@
+EVALUATIION_FILE = 'path_of_test-suite-sql-eval_repo/eval_dict.py'
+
+
+SPIDER_DB_PATH =
+SENTENCE_TRANSFORMER_PATH =
+
+
+INSERT_EMBS_TOKEN = '<insert_embs>'
+INSERT_EMBS_TOKEN_ID = -114
+INSERT_SEP_TOKEN='<insert_sep>'
+INSERT_START_TOKEN='<insert>'
+INSERT_END_TOKEN='</insert>'
+INSERT_START_TOKEN_LLAMA3 = '<|reserved_special_token_0|>'
+INSERT_END_TOKEN_LLAMA3 = '<|reserved_special_token_1|>'
+INSERT_START_TOKEN_LLAMA3 = '<|reserved_special_token_0|>'
+INSERT_END_TOKEN_LLAMA3 = '<|reserved_special_token_1|>'
+IGNORE_INDEX = -100
+
+MAX_ROW=
+MAX_COL=
+LLAMA3_MODEL_PATH =
+CODELLAMA_MODEL_PATH =
+MISTRAL_MODEL_PATH =
+DSCODER_MODEL_PATH=
+CODES_MODEL_PATH=
+ENCODER_PATH=
