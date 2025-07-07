@@ -133,7 +133,7 @@ class Trainer:
         # prepare data
         warmup_dataloader, train_dataloader, eval_dataloader = self.prepare_data()
         
-        # warmup with 1w samples (100-day)
+        # warmup with 1w samples
         self.train(warmup_dataloader, None, 0)
              
         # save warmed-up model

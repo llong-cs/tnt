@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python train.py --pred_type contrastive --data_path data.npz --log_activate --from_csv --batch_size 64
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python train.py --pred_type contrastive --data_path data --log_activate --from_csv --batch_size 64
